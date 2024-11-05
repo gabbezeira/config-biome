@@ -37,7 +37,6 @@ Para uma integração completa no VS Code, siga estes passos:
 2. Adicione as seguintes configurações no seu `settings.json` para definir o Biome como o formatador padrão e configurar ações automáticas ao salvar:
 
    ```json
-   // Configuração do Biome para VS Code
    "editor.defaultFormatter": "biomejs.biome",
    "editor.formatOnSave": true,
    "editor.codeActionsOnSave": {
