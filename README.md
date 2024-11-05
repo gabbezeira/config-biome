@@ -1,5 +1,5 @@
 
-# 🌿 Configuração Biome
+# 🌿 Configuração Biome AirBnb Style
 
 Este repositório contém um arquivo de configuração de estilo para o [Biome](https://biomejs.dev/guides/getting-started/), uma poderosa ferramenta de formatação e linting para código. Siga as instruções abaixo para configurar rapidamente o Biome em seu projeto e garantir um código mais limpo e consistente.
 
@@ -65,5 +65,11 @@ Contribuições são bem-vindas! Se desejar melhorar esta configuração ou adic
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT.
+
+---
+
+## 🖊️ Créditos
+
+Configuração criada por [gabbezeira](https://instagram.com/gabbezeira).
 
 ---
