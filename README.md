@@ -51,8 +51,8 @@ Para uma integração completa no VS Code, siga estes passos:
 
 Após a instalação e configuração, utilize os comandos abaixo para formatar seu código e verificar problemas de linting:
 
-- **Formatar o código**: `npx biome format .`
-- **Verificar problemas de linting**: `npx biome lint .`
+- **Formatar o código**: `npx @biomejs/biome format --write <files>`
+- **Verificar problemas de linting**: `npx @biomejs/biome lint --write <files>`
 
 Para mais informações e comandos adicionais, consulte a [documentação do Biome](https://biomejs.dev/guides/getting-started/).
 
